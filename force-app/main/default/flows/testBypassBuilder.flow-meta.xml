@@ -4,14 +4,14 @@
         <processMetadataValues>
             <name>apexSelection</name>
             <value>
-                <stringValue>bypassClass</stringValue>
+                <stringValue>byPAssClass</stringValue>
             </value>
         </processMetadataValues>
         <name>myRule_1_A1</name>
         <label>call bypass</label>
         <locationX>100</locationX>
         <locationY>200</locationY>
-        <actionName>bypassClass</actionName>
+        <actionName>bypAssClass</actionName>
         <actionType>apex</actionType>
         <flowTransactionModel>CurrentTransaction</flowTransactionModel>
     </actionCalls>
