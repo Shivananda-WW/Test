@@ -8,6 +8,8 @@
         <members>bypassClass</members>
         <members>byNew</members>
         
+        <members>finalTest</members>
+        
         <name>ApexClass</name>
     </types>
     <version>52.0</version>
