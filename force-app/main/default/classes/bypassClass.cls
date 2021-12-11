@@ -1,4 +1,4 @@
-public class bypassClass {
+public class BYPASSCLASS {
 	@invocableMethod
     public static void Method1(){
         system.debug('hi');
