@@ -11,7 +11,7 @@
         <label>call bypass</label>
         <locationX>100</locationX>
         <locationY>200</locationY>
-        <actionName>ByPassClass</actionName>
+        <actionName>bypassClass</actionName>
         <actionType>apex</actionType>
         <flowTransactionModel>CurrentTransaction</flowTransactionModel>
     </actionCalls>
